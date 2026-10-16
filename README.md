@@ -12,6 +12,20 @@
 
 ---
 
+## Screenshots
+
+**Landing page**
+
+![Landing page](docs/screenshots/journi-ai-home.png)
+
+**Features**
+
+![Features](docs/screenshots/journi-ai-2.png)
+
+**Mobile view**
+
+![Mobile view](docs/screenshots/journi-ai-mobile.png)
+
 ## ✨ Features
 
 🤖 **AI-Powered Itinerary Generation** - Get personalized day-by-day trip plans with activities, restaurants, and hotel recommendations powered by **NVIDIA NIM (Llama 3.1)**.
