@@ -1,30 +1,18 @@
-# 🌍 JOURNI AI - AI-Powered Trip Planner
+<div align="center">
 
-> **Your Personal AI Travel Companion** - Plan the perfect trip in seconds with intelligent itinerary generation powered by **NVIDIA NIM (Llama 3.1)**.
+<img src="public/logo.jpg" width="110" alt="JourniAI logo" />
 
-🌐 **Live Demo:** [https://journi-ai-ai-trip-planner-anzy.vercel.app/](https://journi-ai-ai-trip-planner-anzy.vercel.app/)
+# JourniAI
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![React](https://img.shields.io/badge/React-19.1.1-61DAFB?logo=react)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-7.1.6-646CFF?logo=vite)](https://vitejs.dev/)
-[![Firebase](https://img.shields.io/badge/Firebase-12.3.0-FFCA28?logo=firebase)](https://firebase.google.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1.13-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+**AI travel companion that generates personalized day-by-day itineraries and budgets.**
 
----
+<a href="https://journi-ai-ai-trip-planner-anzy.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Open_the_app-2ea44f?style=for-the-badge" alt="Live demo" /></a>
 
-## Screenshots
+<br/>
 
-**Landing page**
+<img src="docs/screenshot.png" width="860" alt="JourniAI screenshot" />
 
-![Landing page](docs/screenshots/journi-ai-home.png)
-
-**Features**
-
-![Features](docs/screenshots/journi-ai-2.png)
-
-**Mobile view**
-
-![Mobile view](docs/screenshots/journi-ai-mobile.png)
+</div>
 
 ## ✨ Features
 
